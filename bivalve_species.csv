@@ -1,0 +1,520 @@
+﻿Subclass,Order,Superfamily,Family,Species_ID,Biovolume_mm3,Genus,Species,B0 Order
+Anomalodesmata,Pholadomyoida,Pholadomyoida,Lyonsiidae,Lyo22,174.24,Lyonsia,Lyonsia sp. 1,0.42
+Anomalodesmata,Pholadomyoida,Pandoroidea,Pandoridae,Pan14,1548.8,Pandora,Pandora pinna,0.42
+Anomalodesmata,Pholadomyoida,Thracioidea,Periplomatidae,Per1,173971.1058,Periploma,Periploma planiusculum,0.42
+Anomalodesmata,Pholadomyoida,Thracioidea,Periplomatidae,Per8,1157.519612,Periploma,Periploma tenerum,0.42
+Anomalodesmata,Pholadomyoida,Thracioidea,Thraciidae,Thr19,41936.49984,Asthenothaerus ,Asthenothaerus hemphillii,0.42
+Anomalodesmata,Pholadomyoida,Thracioidea,Thraciidae,Thr31,41936.49984,Bushia,Bushia sp.,0.42
+Anomalodesmata,Pholadomyoida,Thracioidea,Thraciidae,Thr25,8780.04,Thracia,Thracia durouchouxi,0.42
+Anomalodesmata,Pholadomyoida,Thracioidea,Thraciidae,Thr26,3199.064708,Thracia,Thracia gracilis,0.42
+Anomalodesmata,Pholadomyoida,Thracioidea,Thraciidae,Thr27,211276.6064,Thracia,Thracia pubescens,0.42
+Anomalodesmata,Pholadomyoida,Thracioidea,Thraciidae,Thr32,41936.49984,Thracia,Thracia sp.,0.42
+Anomalodesmata,Pholadomyoida,Thracioidea,Thraciidae,Thr16,1300,Thracia ,Thracia nitida,0.42
+Anomalodesmata,Pholadomyoida,Thracioidea,Thraciidae,Thr23,301363.5528,Thracia ,Thracia conradi ,0.42
+Anomalodesmata,Pholadomyoida,Thracioidea,Thraciidae,Thr28,41936.49984,Thracia ,Thracia sp. 1,0.42
+Anomalodesmata,Pholadomyoida,Thracioidea,Thraciidae,Thr29,41936.49984,Thracia ,Thracia sp. 2,0.42
+Anomalodesmata,Pholadomyoida,Thracioidea,Thraciidae,Thr30,41936.49984,Thracia ,Thracia sp. 3,0.42
+Anomalodesmata,Pholadomyoida,Thracioidea,Thraciidae,Thr7,43212.78769,"Thracia, sensu lato","Thracia, sensu lato myopsis",0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus9,4839.506173,Bathyneaera,Bathyneaera tillamookensis,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus49,249.5672448,Bidentaria ,Bidentaria atlantica,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus131,1564.351717,Cardiomya,Cardiomya sp.,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus132,1564.351717,Cardiomya,Cardiomya sp. 1,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus29,78.97025419,Cardiomya,Cardiomya costellata,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus30,6776.970465,Cardiomya,Cardiomya knudseni,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus41,1564.351717,Cardiomya,Cardiomya curta,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus130,179.957551,Cardiomya ,Cardiomya gemma,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus104,512.0614237,Cuspidaria,Cuspidaria sp. ,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus105,512.0614237,Cuspidaria,Cuspidaria sp. a,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus106,512.0614237,Cuspidaria,Cuspidaria sp. d,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus108,512.0614237,Cuspidaria,Cuspidaria sp. f,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus109,512.0614237,Cuspidaria,Cuspidaria sp. g,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus110,512.0614237,Cuspidaria,Cuspidaria sp. h,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus111,512.0614237,Cuspidaria,Cuspidaria sp. j,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus112,512.0614237,Cuspidaria,Cuspidaria sp. k,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus113,512.0614237,Cuspidaria,Cuspidaria sp. L,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus114,512.0614237,Cuspidaria,Cuspidaria sp. p,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus115,512.0614237,Cuspidaria,Cuspidaria sp. q,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus117,512.0614237,Cuspidaria,Cuspidaria sp. 56,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus118,512.0614237,Cuspidaria,Cuspidaria sp. 126,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus119,512.0614237,Cuspidaria,Cuspidaria sp. 202,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus120,512.0614237,Cuspidaria,Cuspidaria sp. 239,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus121,512.0614237,Cuspidaria,Cuspidaria sp. 242,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus122,512.0614237,Cuspidaria,Cuspidaria sp. 326,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus124,512.0614237,Cuspidaria,Cuspidaria sp. 334,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus125,512.0614237,Cuspidaria,Cuspidaria sp. 346,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus126,512.0614237,Cuspidaria,Cuspidaria sp. 519,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus129,472.3026639,Cuspidaria,Cuspidaria inflata,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus133,512.0614237,Cuspidaria,Cuspidaria sp. 3,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus19,621.5942945,Cuspidaria,Cuspidaria obesa,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus20,25.95790932,Cuspidaria,Cuspidaria parva,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus21,512.0614237,Cuspidaria,Cuspidaria sp. 1,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus22,512.0614237,Cuspidaria,Cuspidaria sp. 2,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus27,44.00487408,Cuspidaria,Cuspidaria atlantica,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus28,512.0614237,Cuspidaria,Cuspidaria circinata,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus35,2951.550069,Cuspidaria,Cuspidaria cuspidata,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus36,40.22506371,Cuspidaria,Cuspidaria jeffreysi,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus37,512.0614237,Cuspidaria,Cuspidaria barnardi,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus38,7676.244779,Cuspidaria,Cuspidaria undata,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus39,15426.92662,Cuspidaria,Cuspidaria ventricosa,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus134,936.1830633,Cuspidaria ,Cuspidaria teres,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus34,54.26796532,Edentaria,Edentaria simplis,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus47,101.4347265,Halonympha,Halonympha depressa,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus48,21.49506573,Halonympha ,Halonympha atlanta,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus26,25.88305346,Luzonia,Luzonia simplex,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus127,512.0614237,Myonera,Myonera angularis,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus135,168.0477913,Myonera,Myonera sp. 1,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus136,168.0477913,Myonera,Myonera sp. 2,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus137,168.0477913,Myonera,Myonera sp. 3,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus138,168.0477913,Myonera,Myonera sp. 5,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus16,1501.762354,Myonera,Myonera paucistriata,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus23,36.81522479,Myonera,Myonera atlantica,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus24,168.0477913,Myonera,Myonera sp.,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus42,232.7276789,Myonera,Myonera demistriata,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus43,34.09995432,Myonera,Myonera octaporosa,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus102,90.65054127,Protocuspidaria,Protocuspidaria sp. 256,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus103,90.65054127,Protocuspidaria,Protocuspidaria sp. ,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus139,50.1581557,Protocuspidaria,Protocuspidaria simplis,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus33,148.4556087,Protocuspidaria,Protocuspidaria verityi,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus140,41.42060451,Rhinoclama,Rhinoclama sp.,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus25,82.94653394,Rhinoclama,Rhinoclama notabilis,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus44,91.22424249,Rhinoclama,Rhinoclama abrupta,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus45,2.615560573,Rhinoclama,Rhinoclama halimera,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus141,25.58134438,Tropidomya,Tropidomya sp.,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus31,51.75969482,Tropidomya,Tropidomya abbreviata,0.42
+Anomalodesmata,Septibranchida,Cuspidarioidea,Cuspidariidae,Cus46,10.13696076,Tropidomya,Tropidomya diagonalis,0.42
+Anomalodesmata,Septibranchida,Poromyoidea,Poromyidae,Por28,5236.478306,Cetoconcha,Cetoconcha sp.,0.42
+Anomalodesmata,Septibranchida,Poromyoidea,Poromyidae,Por9,5236.478306,Cetoconcha,Cetoconcha braziliensis,0.42
+Anomalodesmata,Septibranchida,Poromyoidea,Poromyidae,Por25,405.3467493,Poromya,Poromya sp. 256,0.42
+Anomalodesmata,Septibranchida,Poromyoidea,Poromyidae,Por26,405.3467493,Poromya,Poromya sp. 301,0.42
+Anomalodesmata,Septibranchida,Poromyoidea,Poromyidae,Por27,405.3467493,Poromya,Poromya sp. 335,0.42
+Anomalodesmata,Septibranchida,Poromyoidea,Poromyidae,Por29,405.3467493,Poromya,Poromya sp.,0.42
+Anomalodesmata,Septibranchida,Poromyoidea,Poromyidae,Por7,74.41344592,Poromya ,Poromya granulata,0.42
+Anomalodesmata,Septibranchida,Poromyoidea,Poromyidae,Por8,1184.85298,Poromya ,Poromya tornata,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver10,382.236996,Lyonsiella,Lyonsiella formosa,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver11,20.67408359,Lyonsiella,Lyonsiella subquadrata,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver14,82.85511212,Lyonsiella,Lyonsiella perplexa,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver15,50.09350762,Lyonsiella,Lyonsiella frielei,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver16,40.99716034,Lyonsiella,Lyonsiella smidti,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver17,526.9673873,Lyonsiella,Lyonsiella fragilis,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver58,144.2056934,Lyonsiella,Lyonsiella sp.,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver9,342.0165266,Lyonsiella,Lyonsiella abyssicola,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver46,144.2056934,Lyonsiella ,Lyonsiella sp. 239,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver13,79.25342058,Policordia,Policordia gemma,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver20,5626.029593,Policordia,Policordia densicostata,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver21,39.73676163,Policordia,Policordia atlantica,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver24,4.117758262,Policordia,Policordia laevis,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver52,2206.552835,Policordia,Policordia sp.,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver6,54680.28203,Policordia,Policordia jeffreysi,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver53,2206.552835,Policordia ,Policordia sp. 128,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver55,2206.552835,Policordia ,Policordia sp. 297,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver12,2572.768681,Verticordia,Verticordia triangularis,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver19,356.4309052,Verticordia,Verticordia quadrata,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver47,1123.737061,Verticordia,Verticordia sp. ,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver48,1123.737061,Verticordia,Verticordia sp. 88,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver49,1123.737061,Verticordia,Verticordia sp. 98,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver50,1123.737061,Verticordia,Verticordia sp. 240,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver51,1123.737061,Verticordia,Verticordia sp. 309,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver26,54216.37194,Halicardia ,Halicardia flexuosa,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae,Ver25,35.51900397,Laevicordia,Laevicordia horrida,0.42
+Anomalodesmata,Septibranchida,Verticordioidea,Verticordiidae ,Ver57,35.51900397,Laevicordia,Laevicordia sp.,0.42
+Heterodonta,Myoida,Myoidea,Corbulidae ,Cor219,1263.161657,Corbula,Corbula sp. 1,0.44
+Heterodonta,Myoida,Myoidea,Corbulidae ,Cor220,1263.161657,Corbula,Corbula sp. 2,0.44
+Heterodonta,Myoida,Pholadoidea,Pholadidae,Pho39,164.11,Xylophaga,Xylophaga sp.,0.44
+Heterodonta,Veneroida,Astartoidea,Astartidae,Ast10,30892.12245,Astarte,Astarte sp. 2,0.42
+Heterodonta,Veneroida,Astartoidea,Astartidae,Ast15,30892.12245,Astarte,Astarte sp.,0.42
+Heterodonta,Veneroida,Astartoidea,Astartidae,Ast16,30892.12245,Astarte,Astarte sp. 3,0.42
+Heterodonta,Veneroida,Astartoidea,Astartidae,Ast9,30892.12245,Astarte,Astarte sp. 1,0.42
+Heterodonta,Veneroida,Astartoidea,Astartidae,Ast12,30892.12245,Astarte ,Astarte sp. 5,0.42
+Heterodonta,Veneroida,Astartoidea,Astartidae,Ast13,12431.04625,Tridonta ,Tridonta elliptica,0.42
+Heterodonta,Veneroida,Cardioidea,Cardiidae,Car242,727766.9121,Acanthocardia,Acanthocardia echinata,0.42
+Heterodonta,Veneroida,Cardioidea,Cardiidae,Car243,797912.6263,Cardiidae,Cardiidae sp. 4,0.42
+Heterodonta,Veneroida,Cardioidea,Cardiidae,Car244,797912.6263,Cardiidae,Cardiidae sp. 6,0.42
+Heterodonta,Veneroida,Cardioidea,Cardiidae,Car22,281243.4125,Clinocardium,Clinocardium ciliatum,0.42
+Heterodonta,Veneroida,Carditoidea,Carditidae,Car116,88386.21907,Carditidae,Carditidae sp. 1,0.42
+Heterodonta,Veneroida,Carditoidea,Carditidae,Car117,97056.32602,Carditidae,Carditidae sp. 2,0.42
+Heterodonta,Veneroida,Carditoidea,Carditidae,Car118,114114.8547,Carditidae,Carditidae sp. 5,0.42
+Heterodonta,Veneroida,Glossoidea,Kelliellidae,Kel12,20.98271178,Kelliella,Kelliella tenina,0.42
+Heterodonta,Veneroida,Glossoidea,Kelliellidae,Kel13,2266.433324,Kelliella,Kelliella adamsi,0.42
+Heterodonta,Veneroida,Glossoidea,Kelliellidae,Kel4,2.920497566,Kelliella,Kelliella biscayensis,0.42
+Heterodonta,Veneroida,Glossoidea,Kelliellidae,Kel6,22.88150504,Kelliella,Kelliella miliaris,0.42
+Heterodonta,Veneroida,Glossoidea,Kelliellidae,Kel7,114.5182475,Kelliella,Kelliella nitida,0.42
+Heterodonta,Veneroida,Glossoidea,Kelliellidae,Kel10,6.69919027,Kelliella ,Kelliella elongata,0.42
+Heterodonta,Veneroida,Glossoidea,Kelliellidae,Kel11,28.86153404,Kelliella ,Kelliella abyssicola,0.42
+Heterodonta,Veneroida,Glossoidea,Kelliellidae,Kel14,62.16103933,Kelliella ,Kelliella sp. 236,0.42
+Heterodonta,Veneroida,Glossoidea,Kelliellidae,Kel15,62.16103933,Kelliella ,Kelliella sp. 245,0.42
+Heterodonta,Veneroida,Glossoidea,Kelliellidae,Kel16,62.16103933,Kelliella ,Kelliella sp. 323,0.42
+Heterodonta,Veneroida,Glossoidea,Kelliellidae,Kel17,62.16103933,Kelliella ,Kelliella sp.,0.42
+Heterodonta,Veneroida,Glossoidea,Kelliellidae,Kel3,2904,Kelliella ,Kelliella atlantica,0.42
+Heterodonta,Veneroida,Glossoidea,Kelliellidae,Kel9,4.85254905,Kelliella ,Kelliella concentrica,0.42
+Heterodonta,Veneroida,Galeommatoidea,Lasaeidae,Las60,10,Epilepton,Epilepton sp. 21,0.42
+Heterodonta,Veneroida,Galeommatoidea,Lasaeidae,Las66,10,Epilepton,Epilepton sp.,0.42
+Heterodonta,Veneroida,Galeommatoidea,Lasaeidae,Las38,10,Epilepton ,Epilepton elpis,0.42
+Heterodonta,Veneroida,Galeommatoidea,Lasaeidae,Las59,10,Epilepton ,Epilepton subtrigonum,0.42
+Heterodonta,Veneroida,Galeommatoidea,Lasaeidae,Las61,88.752,Montacuta,Montacuta sp.,0.42
+Heterodonta,Veneroida,Galeommatoidea,Lasaeidae,Las62,88.752,Montacuta,Montacuta sp. 1,0.42
+Heterodonta,Veneroida,Galeommatoidea,Lasaeidae,Las18,20.77749603,Mysella,Mysella sp. 1,0.42
+Heterodonta,Veneroida,Galeommatoidea,Lasaeidae,Las47,36.17041396,Mysella,Mysella ovata,0.42
+Heterodonta,Veneroida,Galeommatoidea,Lasaeidae,Las51,7.811555556,Mysella,Mysella tumidula,0.42
+Heterodonta,Veneroida,Galeommatoidea,Lasaeidae,Las63,25.78037318,Mysella,Mysella verrilli,0.42
+Heterodonta,Veneroida,Galeommatoidea,Lasaeidae,Las64,20.77749603,Mysella,Mysella sp. 2,0.42
+Heterodonta,Veneroida,Galeommatoidea,Lasaeidae,Las65,20.77749603,Mysella,Mysella sp. 3,0.42
+Heterodonta,Veneroida,Galeommatoidea,Leptonidae,Lep1,164.11,Leptonidae,Leptonidae sp. v,0.42
+Heterodonta,Veneroida,Galeommatoidea,Leptonidae,Lep2,164.11,Leptonidae,Leptonidae sp. w,0.42
+Heterodonta,Veneroida,Lucinoidea,Lucinidae,Luc58,93345.11356,Lucinidae,Lucinidae sp.,0.42
+Heterodonta,Veneroida,Lucinoidea,Lucinidae,Luc59,93345.11356,Lucinidae,Lucinidae sp. 280,0.42
+Heterodonta,Veneroida,Lucinoidea,Lucinidae,Luc51,181917.9619,Lucinoma,Lucinoma filosa,0.42
+Heterodonta,Veneroida,Lucinoidea,Lucinidae,Luc34,4772.265255,Myrteopsis,Myrteopsis lens,0.42
+Heterodonta,Veneroida,Mactroidea,Mactridae,Mac40,908280,Mactridae,Mactridae sp. ,0.42
+Heterodonta,Veneroida,Galeommatoidea,Montacutidae,Mon7,164.11,Montacutidae,Montacutidae sp.,0.42
+Heterodonta,Veneroida,Cyamioidea,Neoleptonidae,Neo19,11.49729359,Neolepton,Neolepton sp. 246,0.42
+Heterodonta,Veneroida,Cyamioidea,Neoleptonidae,Neo4,11.49729359,Neolepton,Neolepton profundorum,0.42
+Heterodonta,Veneroida,Tellinoidea,Semelidae,Sem23,3480.307832,Abra,Abra longicallus,0.42
+Heterodonta,Veneroida,Tellinoidea,Semelidae,Sem7,7811.555556,Abra,Abra profundorum,0.42
+Heterodonta,Veneroida,Tellinoidea,Tellinidae,Tel107,164.11,Tellinidae,Tellinidae sp. a,0.42
+Heterodonta,Veneroida,Tellinoidea,Tellinidae,Tel108,164.11,Tellinidae,Tellinidae sp. b,0.42
+Heterodonta,Veneroida,Tellinoidea,Tellinidae,Tel109,164.11,Tellinidae,Tellinidae sp. c,0.42
+Heterodonta,Veneroida,Tellinoidea,Tellinidae,Tel110,164.11,Tellinidae,Tellinidae sp. d,0.42
+Heterodonta,Veneroida,Tellinoidea,Tellinidae,Tel113,164.11,Tellinidae,Tellinidae sp. f,0.42
+Heterodonta,Veneroida,Tellinoidea,Tellinidae,Tel114,164.11,Tellinidae,Tellinidae sp. x,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy56,26.39476331,Axinodon,Axinodon symmetros,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy105,61.72899541,Axinulus,Axinulus incrassatus,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy37,1643.314484,Axinus,Axinus grandis,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy11,65.37309091,Mendicula,Mendicula ferruginosa,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy100,61.72899541,Thyasira,Thyasira sp. 346b,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy101,61.72899541,Thyasira,Thyasira sp. 346c,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy103,61.72899541,Thyasira,Thyasira sp. S50,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy106,61.72899541,Thyasira,Thyasira robusta,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy107,61.72899541,Thyasira,Thyasira hydroida,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy108,61.72899541,Thyasira,Thyasira intermedius,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy110,61.72899541,Thyasira,Thyasira sp.,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy111,61.72899541,Thyasira,Thyasira sp. 188a,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy112,61.72899541,Thyasira,Thyasira sp. 2,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy12,4.136773459,Thyasira,Thyasira alleni,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy13,24.78635013,Thyasira,Thyasira brevis,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy14,3.106062789,Thyasira,Thyasira carrozae,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy15,6.730955739,Thyasira,Thyasira croulinensis,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy16,8.849600353,Thyasira,Thyasira eumyaria,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy17,7.596086341,Thyasira,Thyasira incrassata,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy18,1.096287777,Thyasira,Thyasira inflata,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy19,67.53221197,Thyasira,Thyasira obsoleta,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy20,5.431724755,Thyasira,Thyasira pygmaea,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy21,7.551499138,Thyasira,Thyasira subovata ,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy22,6.141703754,Thyasira,Thyasira succisa,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy23,21.0445394,Thyasira,Thyasira tortuosa,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy24,3.110891888,Thyasira,Thyasira transversa,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy25,5.18871347,Thyasira,Thyasira ultima,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy26,0.969078532,Thyasira,Thyasira verrilli,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy27,61.72899541,Thyasira,Thyasira sp. 2a,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy28,61.72899541,Thyasira,Thyasira sp. 17,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy29,61.72899541,Thyasira,Thyasira sp. 21,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy34,73.25735319,Thyasira,Thyasira equalis ,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy38,7374.694048,Thyasira,Thyasira trisinuata,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy39,3437.688165,Thyasira,Thyasira excavata plicata,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy40,376.9992126,Thyasira,Thyasira subcircularis ,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy41,39.96773963,Thyasira,Thyasira subequatoria,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy42,581.4415833,Thyasira,Thyasira biscayensis,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy43,10.96122346,Thyasira,Thyasira atlantica,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy45,2.259682557,Thyasira,Thyasira bushae,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy61,61.72899541,Thyasira,Thyasira sp. 2c,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy62,61.72899541,Thyasira,Thyasira sp. 3,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy63,61.72899541,Thyasira,Thyasira sp. 4,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy64,61.72899541,Thyasira,Thyasira sp. 8a,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy65,61.72899541,Thyasira,Thyasira sp. 9,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy66,61.72899541,Thyasira,Thyasira sp. 15,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy67,61.72899541,Thyasira,Thyasira sp. 28,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy68,61.72899541,Thyasira,Thyasira sp. 30,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy69,61.72899541,Thyasira,Thyasira sp. 32,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy70,61.72899541,Thyasira,Thyasira sp. 34,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy71,61.72899541,Thyasira,Thyasira sp. 40,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy73,61.72899541,Thyasira,Thyasira sp. 47a,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy74,61.72899541,Thyasira,Thyasira sp. 47b,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy75,61.72899541,Thyasira,Thyasira sp. 65,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy76,61.72899541,Thyasira,Thyasira sp. 67,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy77,61.72899541,Thyasira,Thyasira sp. 72,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy78,61.72899541,Thyasira,Thyasira sp. 98,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy79,61.72899541,Thyasira,Thyasira sp. 128,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy80,61.72899541,Thyasira,Thyasira sp. 186,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy82,61.72899541,Thyasira,Thyasira sp. 188b,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy83,61.72899541,Thyasira,Thyasira sp. 202,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy84,61.72899541,Thyasira,Thyasira sp. 210,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy85,61.72899541,Thyasira,Thyasira sp. 239,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy86,61.72899541,Thyasira,Thyasira sp. 243,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy87,61.72899541,Thyasira,Thyasira sp. 280,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy88,61.72899541,Thyasira,Thyasira sp. 297,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy89,61.72899541,Thyasira,Thyasira sp. 299,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy90,61.72899541,Thyasira,Thyasira sp. 306,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy91,61.72899541,Thyasira,Thyasira sp. 309,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy92,61.72899541,Thyasira,Thyasira sp. 314,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy93,61.72899541,Thyasira,Thyasira sp. 318,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy94,61.72899541,Thyasira,Thyasira sp. 323,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy95,61.72899541,Thyasira,Thyasira sp. 328,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy97,61.72899541,Thyasira,Thyasira sp. 330,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy98,61.72899541,Thyasira,Thyasira sp. 334,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy99,61.72899541,Thyasira,Thyasira sp. 346a,0.42
+Heterodonta,Veneroida,Lucinoidea,Thyasiridae,Thy109,61.72899541,Thyasira ,Thyasira platyssima,0.42
+Heterodonta,Veneroida,Veneroidea,Veneridae,Ven106,164.11,Veneridae,Veneridae sp. 280,0.42
+Heterodonta,Veneroida,Veneroidea,Veneridae,Ven107,164.11,Veneridae,Veneridae sp. h,0.42
+Heterodonta,Veneroida,Galeommatoidea,,Gal21,164.11,Galeommatoidea ,Galeommatoidea sp.,0.42
+Protobranchia,Nuculoida,Nuculoidea,Lametilidae,Lam3,17.16322609,Lametila,Lametila abyssorum,0.28
+Protobranchia,Nuculoida,Nuculoidea,Lametilidae,Lam1,9.945483,Phaseolus,Phaseolus sp. c,0.28
+Protobranchia,Nuculoida,Nuculoidea,Lametilidae,Lam5,9.945483,Phaseolus,Phaseolus sp. b,0.28
+Protobranchia,Nuculoida,Nuculoidea,Lametilidae,Lam6,9.945483,Phaseolus,Phaseolus sp. d,0.28
+Protobranchia,Nuculoida,Nuculoidea,Lametilidae,Lam4,9.945483,Phaseolus ,Phaseolus sp. a,0.28
+Protobranchia,Nuculoida,Nuculoidea,Lametilidae,Lam2,5.215023401,Prelametila,Prelametila clarkei,0.28
+Protobranchia,Nuculoida,Nuculoidea,Lametilidae,Lam7,5.215023401,Prelametila,Prelametila sp. 247,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Malletiidae,Mal10,1825.794564,Malletia,Malletia pallida,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Malletiidae,Mal11,5858.385898,Malletia,Malletia polita,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Malletiidae,Mal12,1221.27404,Malletia,Malletia grasslei,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Malletiidae,Mal13,167.2689139,Malletia,Malletia malita,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Malletiidae,Mal14,51.529,Malletia,Malletia surinamensis,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Malletiidae,Mal15,813.3563341,Malletia,Malletia obtusa,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Malletiidae,Mal21,860.7890797,Malletia,Malletia sp.,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Malletiidae,Mal7,305.1873586,Malletia,Malletia abyssorum,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Malletiidae,Mal8,344.6050624,Malletia,Malletia cuneata,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Malletiidae,Mal9,1818.852831,Malletia,Malletia johnsoni,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Malletiidae,Mal22,860.7890797,Malletia ,Malletia succisa atlantica,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Neilonellidae,Nei10,279.9495605,Neilonella,Neilonella hampsoni,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Neilonellidae,Nei16,347.1706026,Neilonella,Neilonella seguenza,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Neilonellidae,Nei7,260.6805556,Neilonella,Neilonella salicensis,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Neilonellidae,Nei8,541.0732285,Neilonella,Neilonella whoii,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Neilonellidae,Nei9,294.8848427,Neilonella ,Neilonella corpulenta,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae,Nuc218,56.22288357,Ledella,Ledella sandersi,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae,Nuc220,23.49057091,Ledella,Ledella ultima,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae,Nuc225,139.8862442,Ledella,Ledella acinula,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae,Nuc227,93.43181483,Ledella,Ledella jamesi,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae,Nuc228,106.6526108,Ledella,Ledella pustulosa,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae,Nuc229,33.40008,Ledella,Ledella sublevis,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae,Nuc232,14.93002612,Ledella,Ledella aberrata,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae,Nuc236,16.65178859,Ledella,Ledella oxira,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae,Nuc237,139.8862442,Ledella,Ledella galathea,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae,Nuc239,16.01133518,Ledella,Ledella parva,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae,Nuc244,58.47179892,Ledella,Ledella sp.,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae,Nuc226,45.36305066,Ledella ,Ledella acuminata,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae,Nuc233,20.54788015,Ledella ,Ledella lusitanensis ,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae,Nuc234,141.7513941,Ledella ,Ledella similis,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae,Nuc223,1188.389473,Nuculana,Nuculana vestita,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae,Nuc241,231.2011247,Nuculana,Nuculana commutata,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae,Nuc246,219.2788804,Nuculana,Nuculana acuta,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae,Nuc224,732.1789808,Propeleda,Propeleda carpenteri,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae,Nuc242,558.4251735,Propeleda,Propeleda paucistriata,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae,Nuc243,1558.900315,Propeleda,Propeleda louiseae,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae,Nuc281,100.9900314,Tindariopsis,Tindariopsis sp.,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae,Nuc230,100.9900314,Tindariopsis ,Tindariopsis aeoleta,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Nuculanidae ,Nuc282,139.4434244,Nuculanidae ,Nuculanidae sp.,0.28
+Protobranchia,Nuculoida,Nuculoidea,Nuculidae,Nuc117,118.5300167,Brevinucula,Brevinucula subtriangularis,0.28
+Protobranchia,Nuculoida,Nuculoidea,Nuculidae,Nuc19,175.8506324,Brevinucula,Brevinucula verrilli,0.28
+Protobranchia,Nuculoida,Nuculoidea,Nuculidae,Nuc18,225.0307636,Deminucula,Deminucula atacellana,0.28
+Protobranchia,Nuculoida,Nuculoidea,Nuculidae,Nuc115,6123.6,Nucula,Nucula callicredemna,0.28
+Protobranchia,Nuculoida,Nuculoidea,Nuculidae,Nuc124,6123.6,Nucula,Nucula sp. 330,0.28
+Protobranchia,Nuculoida,Nuculoidea,Nuculidae,Nuc125,6123.6,Nuculidae,Nuculidae sp. 280,0.28
+Protobranchia,Nuculoida,Nuculoidea,Nuculidae,Nuc110,155.2844283,Nuculoidea,Nuculoidea bushae,0.28
+Protobranchia,Nuculoida,Nuculoidea,Nuculidae,Nuc112,16.93401592,Nuculoma,Nuculoma granulosa,0.28
+Protobranchia,Nuculoida,Nuculoidea,Nuculidae,Nuc113,669.6788726,Nuculoma,Nuculoma perforata,0.28
+Protobranchia,Nuculoida,Nuculoidea,Nuculidae,Nuc114,34.02267843,Nuculoma,Nuculoma similis,0.28
+Protobranchia,Nuculoida,Nuculoidea,Nuculidae,Nuc116,6.346724705,Nuculoma,Nuculoma elongata,0.28
+Protobranchia,Nuculoida,Pristiglomoidea,Pristiglomidae,Pri4,0.734693878,Microgloma,Microgloma turnerae,0.28
+Protobranchia,Nuculoida,Pristiglomoidea,Pristiglomidae,Pri5,0.598512699,Microgloma,Microgloma sp. s,0.28
+Protobranchia,Nuculoida,Pristiglomoidea,Pristiglomidae,Pri8,0.83919051,Microgloma,Microgloma yongei,0.28
+Protobranchia,Nuculoida,Pristiglomoidea,Pristiglomidae,Pri9,0.31752,Microgloma,Microgloma pusilla,0.28
+Protobranchia,Nuculoida,Pristiglomoidea,Pristiglomidae,Pri1,47.94462013,Pristigloma,Pristigloma nitens,0.28
+Protobranchia,Nuculoida,Pristiglomoidea,Pristiglomidae,Pri6,21.00280226,Pristigloma,Pristigloma sp. a,0.28
+Protobranchia,Nuculoida,Pristiglomoidea,Pristiglomidae,Pri7,6.675489927,Pristigloma,Pristigloma alba,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Siliculidae,Sil3,44.5268492,Silicula,Silicula filatovae,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Siliculidae,Sil4,31.08369596,Silicula,Silicula fragilis,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Siliculidae,Sil5,306.286144,Silicula,Silicula mcalesteri,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Tindariidae,Tin10,36.10988189,Pseudotindaria,Pseudotindaria championi,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Tindariidae,Tin20,80.48339241,Pseudotindaria,Pseudotindaria sp.,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Tindariidae,Tin6,151.3149967,Pseudotindaria,Pseudotindaria erebus,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Tindariidae,Tin11,275.1517831,Spinula,Spinula hilleri,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Tindariidae,Tin12,657.8476907,Spinula,Spinula scheltemai,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Tindariidae,Tin21,277.3983073,Spinula,Spinula sp.,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Tindariidae,Tin7,82.98494105,Spinula,Spinula filatovae,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Tindariidae,Tin8,46.04498523,Spinula ,Spinula subexcisa,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Tindariidae,Tin18,53.12330779,Tindaria,Tindaria perrieri,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Tindariidae,Tin19,53.12330779,Tindaria,Tindaria sp. 188,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Tindariidae,Tin3,142.6516385,Tindaria,Tindaria agatheda,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Tindariidae,Tin4,8.835259858,Tindaria,Tindaria miniscula,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Tindariidae,Tin9,83.94192118,Tindaria,Tindaria hessleri,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Tindariidae,Tin5,498.9699632,Tindaria ,Tindaria callistiformis,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol11,281.5064094,Portlandia,Portlandia lenticula,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol18,6.498115118,Portlandia,Portlandia minuta,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol40,53.60970396,Portlandia,Portlandia abyssorum,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol86,58.04297286,Portlandia ,Portlandia sp.,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol14,132.566866,Yoldiella,Yoldiella frigida,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol20,235.6715528,Yoldiella,Yoldiella bilanta,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol21,186.6169729,Yoldiella,Yoldiella biscayensis,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol22,80.48014359,Yoldiella,Yoldiella blanda,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol23,236.3918475,Yoldiella,Yoldiella capensis,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol24,64.02452705,Yoldiella,Yoldiella curta,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol25,45.58873276,Yoldiella,Yoldiella ella,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol26,24.22943253,Yoldiella,Yoldiella enata,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol27,49.55581075,Yoldiella,Yoldiella extensa,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol28,475.48229,Yoldiella,Yoldiella jeffreysi,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol29,34.95387328,Yoldiella,Yoldiella inconspicua,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol30,25.26772009,Yoldiella,Yoldiella insculpta,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol31,46.72800386,Yoldiella,Yoldiella lata,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol32,136.2870694,Yoldiella,Yoldiella lucida,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol33,102.3568442,Yoldiella,Yoldiella obesa,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol34,12.4192172,Yoldiella,Yoldiella ovata,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol35,17.29737877,Yoldiella,Yoldiella perplexa,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol36,52.5929559,Yoldiella,Yoldiella pseudolata,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol37,29.2219333,Yoldiella,Yoldiella robusta,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol38,49.24036803,Yoldiella,Yoldiella subcircularis,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol39,52.5929559,Yoldiella,Yoldiella subequilateria,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol42,28.29310736,Yoldiella,Yoldiella argentinensis,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol43,10.04626612,Yoldiella,Yoldiella artipica,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol44,2.423119271,Yoldiella,Yoldiella biguttata,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol46,16.02184589,Yoldiella,Yoldiella hanna,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol47,11.21227953,Yoldiella,Yoldiella similis,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol48,21.33463408,Yoldiella,Yoldiella sinuosa,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol49,43.27413559,Yoldiella,Yoldiella veletta,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol50,35.56730466,Yoldiella,Yoldiella similiris,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol73,35.04639564,Yoldiella,Yoldiella dissimilis,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol84,52.5929559,Yoldiella,Yoldiella sp. 246,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol87,52.5929559,Yoldiella,Yoldiella sp.,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol19,7.429981293,Yoldiella ,Yoldiella americana,0.28
+Protobranchia,Nuculoida,Nuculanoidea,Yoldiidae,Yol45,13.6059775,Yoldiella ,Yoldiella fabula,0.28
+Protobranchia,Solemyoida,Manzanelloidea,Manzanellidae,Man5,13.234375,Nucinella,Nucinella pretiosa,0.28
+Protobranchia,Solemyoida,Solemyoidea,Solemyidae,Sol113,980,Solemya,Solemya sp.,0.28
+Protobranchia,Solemyoida,Solemyoidea,Solemyidae,Sol114,980,Solemya,Solemya sp. 195,0.28
+Protobranchia,Solemyoida,Solemyoidea,Solemyidae,Sol115,980,Solemya,Solemya sp. 237,0.28
+Protobranchia,Solemyoida,Solemyoidea,Solemyidae,Sol116,980,Solemya,Solemya sp. 259,0.28
+Protobranchia,Solemyoida,Solemyoidea,Solemyidae,Sol117,980,Solemya,Solemya sp. 280,0.28
+Protobranchia,Solemyoida,Solemyoidea,Solemyidae,Sol118,980,Solemya,Solemya sp. 293,0.28
+Protobranchia,Solemyoida,Solemyoidea,Solemyidae,Sol119,980,Solemya,Solemya acherax,0.28
+Protobranchia,Solemyoida,Solemyoidea,Solemyidae,Sol19,15106.65144,Solemya,Solemya grandis,0.28
+Pteriomorphia,Arcoida,Arcoidea,Arcidae,Arc11,573.6763467,Bathyarca,Bathyarca inaequisculpta,0.26
+Pteriomorphia,Arcoida,Arcoidea,Arcidae,Arc12,140.9638754,Bathyarca,Bathyarca pectunculoides,0.26
+Pteriomorphia,Arcoida,Arcoidea,Arcidae,Arc47,867.9268769,Bathyarca,Bathyarca sp. 245,0.26
+Pteriomorphia,Arcoida,Arcoidea,Arcidae,Arc48,867.9268769,Bathyarca,Bathyarca sp.,0.26
+Pteriomorphia,Arcoida,Arcoidea,Arcidae,Arc7,17902.65306,Bathyarca,Bathyarca glacialis,0.26
+Pteriomorphia,Arcoida,Arcoidea,Arcidae,Arc14,6319.944598,Bentharca,Bentharca nodulosa,0.26
+Pteriomorphia,Arcoida,Arcoidea,Arcidae,Arc9,2086.1893,Bentharca,Bentharca asperula,0.26
+Pteriomorphia,Arcoida,Limopsoidea,Limopsidae,Lim111,1202.364426,Limopsis,Limopsis minuta,0.26
+Pteriomorphia,Arcoida,Limopsoidea,Limopsidae,Lim126,841.3938355,Limopsis,Limopsis sp. 239,0.26
+Pteriomorphia,Arcoida,Limopsoidea,Limopsidae,Lim127,841.3938355,Limopsis,Limopsis sp.,0.26
+Pteriomorphia,Arcoida,Limopsoidea,Limopsidae,Lim13,102185.1206,Limopsis,Limopsis tenella,0.26
+Pteriomorphia,Arcoida,Limopsoidea,Limopsidae,Lim16,3928.442398,Limopsis,Limopsis aurita,0.26
+Pteriomorphia,Arcoida,Limopsoidea,Limopsidae,Lim110,3526.241933,Limopsis ,Limopsis surinamensis,0.26
+Pteriomorphia,Arcoida,Limopsoidea,Limopsidae,Lim128,5528.528214,Limopsis ,Limopsis subovata,0.26
+Pteriomorphia,Arcoida,Limopsoidea,Limopsidae,Lim17,1692.754156,Limopsis ,Limopsis cristata,0.26
+Pteriomorphia,Arcoida,Limopsoidea,Limopsidae,Lim18,367.3065518,Limopsis ,Limopsis galathea,0.26
+Pteriomorphia,Arcoida,Limopsoidea,Limopsidae,Lim19,393.7580796,Limopsis ,Limopsis spicata,0.26
+Pteriomorphia,Limoida,Limoidea,Limidae,Lim211,40.84988107,Limatula,Limatula laminifera,0.52
+Pteriomorphia,Limoida,Limoidea,Limidae,Lim212,396.3681616,Limatula,Limatula subovata,0.52
+Pteriomorphia,Limoida,Limoidea,Limidae,Lim217,5.815681427,Limatula,Limatula louiseae,0.52
+Pteriomorphia,Limoida,Limoidea,Limidae,Lim218,180.3921581,Limatula,Limatula margaretae,0.52
+Pteriomorphia,Limoida,Limoidea,Limidae,Lim219,853.1899956,Limatula,Limatula smithi,0.52
+Pteriomorphia,Limoida,Limoidea,Limidae,Lim220,117.1753306,Limatula,Limatula celtica,0.52
+Pteriomorphia,Limoida,Limoidea,Limidae,Lim223,5.632045714,Limatula,Limatula bisecta,0.52
+Pteriomorphia,Limoida,Limoidea,Limidae,Lim270,118.7609887,Limatula ,Limatula sp. 3,0.52
+Pteriomorphia,Limoida,Limoidea,Limidae,Lim214,106.1931971,Limea,Limea sarsi,0.52
+Pteriomorphia,Limoida,Limoidea,Limidae,Lim224,205.8214108,Limea,Limea argentineae,0.52
+Pteriomorphia,Limoida,Limoidea,Limidae,Lim271,106.1931971,Limea,Limea sp. 240,0.52
+Pteriomorphia,Limoida,Limoidea,Limidae,Lim213,6.701296978,Limea ,Limea lirata,0.52
+Pteriomorphia,Mytiloida,Mytiloidea,Mytilidae,Myt136,12573.73265,Adipicola,Adipicola simpsoni,0.55
+Pteriomorphia,Mytiloida,Mytiloidea,Mytilidae,Myt139,213.347622,Dacrydium,Dacrydium sp. 2,0.55
+Pteriomorphia,Mytiloida,Mytiloidea,Mytilidae,Myt142,213.347622,Dacrydium,Dacrydium sp. L,0.55
+Pteriomorphia,Mytiloida,Mytiloidea,Mytilidae,Myt23,359.2893703,Dacrydium,Dacrydium vitreum,0.55
+Pteriomorphia,Mytiloida,Mytiloidea,Mytilidae,Myt41,174.1648793,Dacrydium,Dacrydium abyssorum,0.55
+Pteriomorphia,Mytiloida,Mytiloidea,Mytilidae,Myt42,97.88569161,Dacrydium,Dacrydium angulare,0.55
+Pteriomorphia,Mytiloida,Mytiloidea,Mytilidae,Myt43,533.8246896,Dacrydium,Dacrydium ockelmanni,0.55
+Pteriomorphia,Mytiloida,Mytiloidea,Mytilidae,Myt44,113.5607482,Dacrydium,Dacrydium sandersi,0.55
+Pteriomorphia,Mytiloida,Mytiloidea,Mytilidae,Myt74,172.7021244,Dacrydium,Dacrydium wareni,0.55
+Pteriomorphia,Mytiloida,Mytiloidea,Mytilidae,Myt141,223.8420517,Dacrydium ,Dacrydium sp.,0.55
+Pteriomorphia,Mytiloida,Mytiloidea,Mytilidae,Myt75,48.472871,Dacrydium ,Dacrydium hedleyi,0.55
+Pteriomorphia,Mytiloida,Mytiloidea,Mytilidae,Myt144,4478.015392,Modiolarca,Modiolarca tumida,0.55
+Pteriomorphia,Mytiloida,Mytiloidea,Mytilidae,Myt143,4478.015392,Modiolus,Modiolus sp.,0.55
+Pteriomorphia,Mytiloida,Mytiloidea,Mytilidae,Myt10,346004.6953,Musculus,Musculus discors,0.55
+Pteriomorphia,Mytiloida,Mytiloidea,Mytilidae,Myt137,2449.159784,Mytilidae,Mytilidae sp. 115,0.55
+Pteriomorphia,Mytiloida,Mytiloidea,Mytilidae,Myt138,2012.758673,Mytilidae,Mytilidae sp. 330,0.55
+Pteriomorphia,Ostreoida,Anomioidea,Anomiidae ,Ano7,3380,Anomiidae ,Anomiidae sp. S29,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Pectinidae,Pec16,8694.33187,Delectopecten,Delectopecten vitreus,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Pectinidae,Pec17,8694.33187,Delectopecten,Delectopecten sp. a,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Pectinidae,Pec87,449119.8674,Flexopecten,Flexopecten proteus,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Pectinidae,Pec22,8089.797549,Hyalopecten,Hyalopecten undatus ,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Pectinidae,Pec83,8089.797549,Hyalopecten,Hyalopecten parvulinus,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Pectinidae,Pec84,8089.797549,Hyalopecten,Hyalopecten sp. a,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Pectinidae,Pec85,8089.797549,Hyalopecten,Hyalopecten sp. e,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Pectinidae,Pec78,60687.74154,Pectinidae,Pectinidae sp. a,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Pectinidae,Pec79,60153.82145,Pectinidae,Pectinidae sp. b,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Pectinidae,Pec80,59622.58955,Pectinidae,Pectinidae sp. c,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Pectinidae,Pec81,8437.745831,Pectinidae,Pectinidae sp. d,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Pectinidae,Pec88,8437.745831,Pectinidae,Pectinidae sp.,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Pectinidae,Pec89,18996.70784,Pectinidae,Pectinidae sp. e,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Pectinidae,Pec67,7101154.293,Placopecten,Placopecten magellanicus,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Pectinidae,Pec86,67780.00307,Pseudamussium,Pseudamussium clavatum,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Pectinidae,Pec36,486540.2099,Zygochlamys,Zygochlamys patagonica,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro14,1152.335152,Bathypecten,Bathypecten sp. d,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro63,1152.335152,Bathypecten,Bathypecten sp. a,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro64,1152.335152,Bathypecten,Bathypecten sp. b,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro65,1152.335152,Bathypecten,Bathypecten sp. c,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro66,1152.335152,Bathypecten,Bathypecten sp. e,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro20,1152.335152,Bathypecten ,Bathypecten eucymatus,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro16,246.0349711,Cyclopecten,Cyclopecten sp. a,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro17,246.0349711,Cyclopecten,Cyclopecten sp. zg,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro19,291.1392099,Cyclopecten,Cyclopecten ambiannulatus,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro37,438.976,Cyclopecten,Cyclopecten pustulosus,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro41,95.37705571,Cyclopecten,Cyclopecten simplex,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro71,246.0349711,Cyclopecten,Cyclopecten sp. ze,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro72,246.0349711,Cyclopecten,Cyclopecten sp. zf,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro73,246.0349711,Cyclopecten,Cyclopecten sp. c,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro15,164.1093632,Parvamussium,Parvamussium lucidum,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro46,21.22350941,Parvamussium,Parvamussium obliquum,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro59,164.1093632,Parvamussium,Parvamussium sp. a,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro60,164.1093632,Parvamussium,Parvamussium sp. b,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro61,164.1093632,Parvamussium,Parvamussium sp. q,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro62,164.1093632,Parvamussium,Parvamussium sp. z,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro67,164.1093632,Parvamussium,Parvamussium thalassinum,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro74,164.1093632,Parvamussium,Parvamussium sp. d,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro22,547.5563623,Parvamussium ,Parvamussium permirum,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro1,7108.304219,Propeamussium,Propeamussium meridionale,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro23,816.217279,Propeamussium,Propeamussium lucidum,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro75,2924.531756,Propeamussium,Propeamussium sp.,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro68,4712.803987,Propeamussium ,Propeamussium sp. a,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro69,3748.287091,Propeamussium ,Propeamussium sp. c,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro21,932.2235434,Similipecten,Similipecten similis,0.45
+Pteriomorphia,Ostreoida,Pectinoidea,Propeamussiidae,Pro57,932.2235434,Similipecten,Similipecten minor,0.45
+,,,Incertae cedis,Inc1,164.11,Incertae cedis,Incertae cedis sp. 1a,
+,,,Incertae cedis,Inc11,164.11,Incertae cedis,Incertae cedis sp. 100,
+,,,Incertae cedis,Inc13,164.11,Incertae cedis,Incertae cedis sp. 115,
+,,,Incertae cedis,Inc14,164.11,Incertae cedis,Incertae cedis sp. 119,
+,,,Incertae cedis,Inc15,164.11,Incertae cedis,Incertae cedis sp. 121,
+,,,Incertae cedis,Inc16,164.11,Incertae cedis,Incertae cedis sp. 122,
+,,,Incertae cedis,Inc17,164.11,Incertae cedis,Incertae cedis sp. 131,
+,,,Incertae cedis,Inc18,164.11,Incertae cedis,Incertae cedis sp. 146,
+,,,Incertae cedis,Inc2,164.11,Incertae cedis,Incertae cedis sp. 1b,
+,,,Incertae cedis,Inc20,164.11,Incertae cedis,Incertae cedis sp. 186,
+,,,Incertae cedis,Inc22,164.11,Incertae cedis,Incertae cedis sp. 189,
+,,,Incertae cedis,Inc25,164.11,Incertae cedis,Incertae cedis sp. 203a,
+,,,Incertae cedis,Inc26,164.11,Incertae cedis,Incertae cedis sp. 203b,
+,,,Incertae cedis,Inc27,164.11,Incertae cedis,Incertae cedis sp. 236,
+,,,Incertae cedis,Inc28,164.11,Incertae cedis,Incertae cedis sp. 237,
+,,,Incertae cedis,Inc29,164.11,Incertae cedis,Incertae cedis sp. 240,
+,,,Incertae cedis,Inc3,164.11,Incertae cedis,Incertae cedis sp. 2,
+,,,Incertae cedis,Inc30,164.11,Incertae cedis,Incertae cedis sp. 256,
+,,,Incertae cedis,Inc31,164.11,Incertae cedis,Incertae cedis sp. 262,
+,,,Incertae cedis,Inc32,164.11,Incertae cedis,Incertae cedis sp. 291a,
+,,,Incertae cedis,Inc33,164.11,Incertae cedis,Incertae cedis sp. 291b,
+,,,Incertae cedis,Inc34,164.11,Incertae cedis,Incertae cedis sp. 299,
+,,,Incertae cedis,Inc35,164.11,Incertae cedis,Incertae cedis sp. 301,
+,,,Incertae cedis,Inc36,164.11,Incertae cedis,Incertae cedis sp. 313,
+,,,Incertae cedis,Inc37,164.11,Incertae cedis,Incertae cedis sp. 314,
+,,,Incertae cedis,Inc38,164.11,Incertae cedis,Incertae cedis sp. 318,
+,,,Incertae cedis,Inc39,164.11,Incertae cedis,Incertae cedis sp. 323,
+,,,Incertae cedis,Inc4,164.11,Incertae cedis,Incertae cedis sp. 3,
+,,,Incertae cedis,Inc41,164.11,Incertae cedis,Incertae cedis sp. 328,
+,,,Incertae cedis,Inc42,164.11,Incertae cedis,Incertae cedis sp. 330,
+,,,Incertae cedis,Inc43,164.11,Incertae cedis,Incertae cedis sp. 334a,
+,,,Incertae cedis,Inc44,164.11,Incertae cedis,Incertae cedis sp. 334b,
+,,,Incertae cedis,Inc45,164.11,Incertae cedis,Incertae cedis sp. 335,
+,,,Incertae cedis,Inc46,164.11,Incertae cedis,Incertae cedis sp. 346,
+,,,Incertae cedis,Inc5,164.11,Incertae cedis,Incertae cedis sp. 10,
+,,,Incertae cedis,Inc6,164.11,Incertae cedis,Incertae cedis sp. 64,
+,,,Incertae cedis,Inc7,164.11,Incertae cedis,Incertae cedis sp. 72,
+,,,Incertae cedis,Inc9,164.11,Incertae cedis,Incertae cedis sp. 95,
+,,,Incerte cedis,Inc47,164.11,Incerte cedis,Incerte cedis,
+,,,Incerte cedis,Inc48,164.11,Incerte cedis,Incerte cedis sp. 1,
+,,,Incerte cedis,Inc49,164.11,Incerte cedis,Incerte cedis sp. 4,
+,,,Incerte cedis,Inc50,164.11,Incerte cedis,Incerte cedis sp. 334,
+,,,,SERP1,164.11,Serapta,Serapta sp.,
